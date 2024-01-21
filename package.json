@@ -1,0 +1,15 @@
+{
+  "name": "projekt_comparison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "comparesFiles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D97",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}

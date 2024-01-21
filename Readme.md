@@ -1,0 +1,3 @@
+# Start
+node comparesFiles.js
+
