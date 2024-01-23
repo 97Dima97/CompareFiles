@@ -1,3 +1,3 @@
 # Start
-node comparesFiles.js
+node index.js -s
 
