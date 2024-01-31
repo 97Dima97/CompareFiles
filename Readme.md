@@ -1,3 +1,3 @@
 # Start
-node index.js -s
+node index.js 
 

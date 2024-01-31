@@ -1,3 +1,3 @@
-import comparesFiles from "./src/comparesFiles.js";
+import compareFiles from './src/compareFiles.js'
 
-comparesFiles();
+compareFiles;
